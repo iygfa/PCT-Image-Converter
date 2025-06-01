@@ -1,7 +1,10 @@
 # PCT-Image-Converter
 
-**Windows Only!**
+![KR](https://github.com/user-attachments/assets/c77e3097-f256-4b84-ad50-2b6a575e1c89)
+![EN](https://github.com/user-attachments/assets/04f05e7c-f74c-4fb9-a890-793048f6ac33)
 
+
+**Windows Only!**
 [Download](https://github.com/iygfa/PCT-Image-Converter/releases/download/v0.1.0/PCTImageConverter.0.1.0.exe)
 
 [Ko-Fi](https://ko-fi.com/gwlee)
