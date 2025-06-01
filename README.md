@@ -10,7 +10,7 @@
 
 [Ko-Fi](https://ko-fi.com/gwlee)
 
-도면 이미지 파일들을 *PCT 국제출원*에서 요구하는 사양인 __**Tiff format**__으로 변환하는 프로그램
+도면 이미지 파일들을 <ins>**PCT 국제출원**</ins> 에서 요구하는 사양인 <ins>**Tiff format**</ins> 으로 변환하는 프로그램
 - 300dpi
 - 170mm x 255mm
 - CCITT Group 4 압축
@@ -36,7 +36,7 @@
 
 ----------------------------------------------------------------------
 
-Software to convert patent drawing files to __**Tiff format**__ required for *PCT applications* below:
+Software to convert patent drawing files to <ins>**Tiff format**</ins> required for <ins>**PCT application**</ins> below:
 - 300 dpi
 - 170mm x 255mm
 - CCITT Group 4 compression
