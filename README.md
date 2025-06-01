@@ -5,11 +5,12 @@
 
 
 **Windows Only!**
+
 [Download](https://github.com/iygfa/PCT-Image-Converter/releases/download/v0.1.0/PCTImageConverter.0.1.0.exe)
 
 [Ko-Fi](https://ko-fi.com/gwlee)
 
-도면 이미지 파일들을 PCT 국제출원에서 요구하는 사양인 tif로 변환하는 프로그램
+도면 이미지 파일들을 *PCT 국제출원*에서 요구하는 사양인 __**Tiff format**__으로 변환하는 프로그램
 - 300dpi
 - 170mm x 255mm
 - CCITT Group 4 압축
@@ -35,7 +36,7 @@
 
 ----------------------------------------------------------------------
 
-Software to convert drawing image files to tif, the specification required for PCT applications
+Software to convert patent drawing files to __**Tiff format**__ required for *PCT applications* below:
 - 300 dpi
 - 170mm x 255mm
 - CCITT Group 4 compression
@@ -43,7 +44,7 @@ Software to convert drawing image files to tif, the specification required for P
 - Intel Encoding
 - Single Strip
 
-Maintains the above specifications, but with filters for image quality
+For image quality, image filters:
 - Unsharp Mask
 - MinFilter (Elode)
 - Top-Hat/Bottom-Hat
@@ -52,9 +53,9 @@ Maintains the above specifications, but with filters for image quality
 Easily modify image size/orientation
 - Preserve image aspect ratio
 - Automatically shrink images that exceed the size limit (170mm x 255mm)
-- Enlarge small images if needed
+- Enlarge small images if you want
 - Can use LANCZOS algorithm when resizing
 
 And more
-- Preview in real time
-- Creates an output folder if one does not exist
+- Preview in real-time
+- Creates an output folder if it does not exist
