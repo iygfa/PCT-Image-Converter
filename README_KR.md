@@ -1,4 +1,4 @@
-![English]() | **한국어**
+[English](https://github.com/iygfa/PCT-Image-Converter/blob/main/README.md) | **한국어**
 
 ![KR](https://github.com/user-attachments/assets/c77e3097-f256-4b84-ad50-2b6a575e1c89)
 
