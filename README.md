@@ -1,4 +1,4 @@
-**English** | ![한국어](https://github.com/iygfa/PCT-Image-Converter/blob/main/README_KR.md)
+**English** | [한국어](https://github.com/iygfa/PCT-Image-Converter/blob/main/README_KR.md)
 
 # PCT-Image-Converter
 
