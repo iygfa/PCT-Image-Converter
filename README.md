@@ -2,7 +2,7 @@
 
 # PCT-Image-Converter
 
-![EN](https://github.com/user-attachments/assets/04f05e7c-f74c-4fb9-a890-793048f6ac33)
+![EN](EN.png)
 
 
 **Windows Only!**
